@@ -1,30 +1,13 @@
 DRAGON-1-0-2-2-3-u-0-_-a-2-2-3
-DRAGON-1-0-2-6-5-u-0-_-a-2-6-5 #(butterfly)
 DRAGON-1-0-1-9-7-u-0-_-a-1-9-7 #(nobita)
 DRAGON-1-0-4-1-5-u-0-_-a-4-1-5 #(osman)
-DRAGON-1-0-3-0-0-u-0-_-a-3-0-0 #(akash)
 DRAGON-1-0-2-1-5-u-0-_-a-2-1-5 #(shanto)
-DRAGON-1-0-3-1-5-u-0-_-a-3-1-5 #(alex joy)
 DRAGON-1-0-4-9-5-u-0-_-a-4-9-5 #(Robin)
 DRAGON-1-0-2-1-0-u-0-_-a-2-1-0 #(Seyam)
-DRAGON-1-0-1-2-4-u-0-_-a-1-2-4 #(Rana)
-DRAGON-1-0-2-2-5-u-0-_-a-2-2-5 #(Harry)
-DRAGON-1-0-2-3-4-u-0-_-a-2-3-4 #(Alif)
-DRAGON-1-0-1-2-3-u-0-_-a-1-2-3 #(Tahsan)
-DRAGON-1-0-3-2-5-u-0-_-a-3-2-5 #(Priti)
-DRAGON-1-0-1-7-2-u-0-_-a-1-7-2 #(Abdullah)
-DRAGON-1-0-3-2-2-u-0-_-a-3-2-2 #(Shadin)
-DRAGON-1-1-4-0-2-u-0-_-a-1-4-0-2 #(rafiul)
 DRAGON-1-0-2-3-3-u-0-_-a-2-3-3 #(Habib)
-DRAGON-1-0-2-6-7-u-0-_-a-2-6-7 #(-----)
 DRAGON-1-0-5-8-7-u-0-_-a-5-8-7 #(nahalun)
 DRAGON-1-0-2-8-1-u-0-_-a-2-8-1 #shanto2
-DRAGON-1-0-1-8-7-u-0-_-a-1-8-7
-DRAGON-1-0-6-3-2-u-0-_-a-6-3-2
 DRAGON-1-0-3-2-3-u-0-_-a-3-2-3 #sayem
-DRAGON-1-0-2-9-3-u-0-_-a-2-9-3 #angel
-DRAGON-1-0-2-1-8-u-0-_-a-2-1-8 #samir
-DRAGON-1-0-3-0-9-u-0-_-a-3-0-9 #sddssde
 DRAGON-1-0-4-6-5-u-0-_-a-4-6-5 #naruto
 DRAGON-1-0-4-2-6-u-0-_-a-4-2-6 #sesh bikal
 DRAGON-1-0-3-3-4-u-0-_-a-3-3-4 #(nobita2)
