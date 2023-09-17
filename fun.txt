@@ -15,7 +15,6 @@ DRAGON-1-0-3-2-5-u-0-_-a-3-2-5 #(Priti)
 DRAGON-1-0-1-7-2-u-0-_-a-1-7-2 #(Abdullah)
 DRAGON-1-0-3-2-2-u-0-_-a-3-2-2 #(Shadin)
 DRAGON-1-1-4-0-2-u-0-_-a-1-4-0-2 #(rafiul)
-DRAGON-1-0-4-2-0-u-0-_-a-4-2-0 #(sesh bikal)
 DRAGON-1-0-2-3-3-u-0-_-a-2-3-3 #(Habib)
 DRAGON-1-0-2-6-7-u-0-_-a-2-6-7 #(-----)
 DRAGON-1-0-5-8-7-u-0-_-a-5-8-7 #(nahalun)
@@ -26,3 +25,5 @@ DRAGON-1-0-3-2-3-u-0-_-a-3-2-3 #sayem
 DRAGON-1-0-2-9-3-u-0-_-a-2-9-3 #angel
 DRAGON-1-0-2-1-8-u-0-_-a-2-1-8 #samir
 DRAGON-1-0-3-0-9-u-0-_-a-3-0-9 #sddssde
+DRAGON-1-0-4-6-5-u-0-_-a-4-6-5 #naruto
+DRAGON-1-0-4-2-6-u-0-_-a-4-2-6 #sesh bikal
