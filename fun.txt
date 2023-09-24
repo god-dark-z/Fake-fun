@@ -2,16 +2,13 @@ DRAGON-1-0-2-2-3-u-0-_-a-2-2-3 #me
 DRAGON-1-0-2-5-4-u-0-_-a-2-5-4 #siyam
 DRAGON-1-0-3-0-9-u-0-_-a-3-0-9 #md Akramul
 DRAGON-1-0-2-2-2-u-0-_-a-2-2-2 #sumon bro
-DRAGON-1-0-1-2-3-u-0-_-a-1-2-3 #Tahsan
 DRAGON-1-0-2-4-9-u-0-_-a-2-4-9 #Munna
 DRAGON-1-0-2-9-4-u-0-_-a-2-9-4 #X
-DRAGON-1-0-2-2-5-u-0-_-a-2-2-5 #Harry
 DRAGON-1-0-2-7-2-u-0-_-a-2-7-2 #Tomar_Jonno
 DRAGON-1-0-2-0-9-u-0-_-a-2-0-9 #Seyam
 DRAGON-1-0-3-2-3-u-0-_-a-3-2-3 #sami
 DRAGON-1-0-4-3-8-u-0-_-a-4-3-8 #rakibul
 DRAGON-1-0-3-7-2-u-0-_-a-3-7-2 #ahmedsiam
-DRAGON-1-1-2-0-1-u-0-_-a-1-2-0-1 #arafat
 DRAGON-1-0-2-3-6-u-0-_-a-2-3-6 #asraf
 DRAGON-1-0-4-7-2-u-0-_-a-4-7-2 #jibon
 DRAGON-1-0-2-4-3-u-0-_-a-2-4-3 #tanim
@@ -26,31 +23,20 @@ DRAGON-1-0-2-9-7-u-0-_-a-2-9-7 #Gaming
 DRAGON-1-0-1-2-1-u-0-_-a-1-2-1 #abid
 DRAGON-1-0-2-8-4-u-0-_-a-2-8-4 #alex
 DRAGON-1-0-3-9-2-u-0-_-a-3-9-2 #rafi
-DRAGON-1-2-1-9-6-u-0-_-a-2-1-9-6 #mostaq
 DRAGON-1-0-2-6-7-u-0-_-a-2-6-7 #riaz
 DRAGON-1-0-4-6-0-u-0-_-a-4-6-0 #A kash
-DRAGON-1-0-3-3-3-u-0-_-a-3-3-3 #bikerafat
-DRAGON-1-1-1-3-6-u-0-_-a-1-1-3-6 #cracked
-DRAGON-1-0-7-6-8-u-0-_-a-7-6-8 #khairol
 DRAGON-1-0-2-8-3-u-0-_-a-2-8-3 #araf
 DRAGON-1-0-2-3-3-u-0-_-a-2-3-3 #habib
 DRAGON-1-0-0-6-5-u-0-_-a-6-5 #ayan2
 DRAGON-1-0-1-3-1-u-0-_-a-1-3-1 #nahalun
 DRAGON-1-0-2-2-9-u-0-_-a-2-2-9 #facebook
-DRAGON-1-0-9-1-8-u-0-_-a-9-1-8 #fatin
 DRAGON-1-0-1-5-1-u-0-_-a-1-5-1 #sakib
 DRAGON-1-0-4-1-5-u-0-_-a-4-1-5 #osman
 DRAGON-1-0-5-0-6-u-0-_-a-5-0-6 #istiaq
 DRAGON-1-0-3-2-8-u-0-_-a-3-2-8 #tanvir
 DRAGON-1-0-3-2-8-u-0-_-a-3-2-8 #banban
 DRAGON-1-0-2-5-1-u-0-_-a-2-5-1 #Rifat
-DRAGON-1-0-8-0-2-u-0-_-a-8-0-2 #Zarnish
-DRAGON-1-0-2-2-6-u-0-_-a-2-2-6 #ali
-DRAGON-1-0-2-7-9-u-0-_-a-2-7-9 #xavier
-DRAGON-1-0-1-9-3-u-0-_-a-1-9-3 #sunno
 DRAGON-1-0-0-1-3-u-0-_-a-1-3 #mehedi
-DRAGON-1-0-6-3-2-u-0-_-a-6-3-2 #mithun
-DRAGON-1-0-1-5-7-u-0-_-a-1-5-7 #masum
 DRAGON-1-0-4-2-9-u-0-_-a-4-2-9 #Hitler
 DRAGON-1-0-2-3-4-u-0-_-a-2-3-4 #istiqu
 DRAGON-1-0-4-1-9-u-0-_-a-4-1-9 #Jubayer
