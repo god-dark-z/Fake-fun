@@ -49,7 +49,7 @@ DRAGON-1-0-2-7-9-u-0-_-a-2-7-9 #xavier
 DRAGON-1-0-2-0-2-u-0-_-a-2-0-2 #masum
 DRAGON-1-0-2-8-1-u-0-_-a-2-8-1
 DRAGON-1-0-2-5-0-u-0-_-a-2-5-0 #jahidul
-DRAGON-1-0-2-7-5-u-0-_-a-2-7-5 #sehez
+DRAGON-1-0-2-6-3-u-0-_-a-2-6-3 #mojahid
 DRAGON-1-0-0-0-3-u-0-_-a-3 #najmul
 DRAGON-1-0-4-5-6-u-0-_-a-4-5-6 #shakil
 DRAGON-1-0-3-2-4-u-0-_-a-3-2-4 #buira
@@ -60,3 +60,6 @@ DRAGON-1-0-7-6-9-u-0-_-a-7-6-9
 DRAGON-1-0-8-0-2-u-0-_-a-8-0-2 #fahad
 DRAGON-1-0-2-2-5-u-0-_-a-2-2-5 #hidden
 DRAGON-1-0-2-6-2-u-0-_-a-2-6-2 #cyber army
+DRAGON-1-1-2-0-1-u-0-_-a-1-2-0-1 #arafatislam
+DRAGON-1-0-3-0-8-u-0-_-a-3-0-8 #alvee
+DRAGON-1-0-2-1-8-u-0-_-a-2-1-8 #redwan
