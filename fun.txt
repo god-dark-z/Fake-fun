@@ -69,3 +69,5 @@ DRAGON-1-0-4-7-5-u-0-_-a-4-7-5 #atique
 DRAGON-1-0-3-7-1-u-0-_-a-3-7-1 #ethan
 DRAGON-1-0-1-1-5-u-0-_-a-1-1-5 #shafu
 DRAGON-1-0-2-6-2-u-0-_-a-2-6-2 #cyber
+DRAGON-1-0-2-1-6-u-0-_-a-2-1-6 #noy9n
+DRAGON-1-0-2-2-8-u-0-_-a-2-2-8 #ayush
